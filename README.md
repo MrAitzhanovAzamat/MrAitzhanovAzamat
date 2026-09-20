@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Learning%20in%20Public-2ea44f?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-DevOps%20%7C%20ML-007ACC?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Kazakhstan-808080?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Kazakhstan-007FFF?style=for-the-badge)
 
 ---
 
