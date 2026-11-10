@@ -1,93 +1,62 @@
-# Hi, I'm Azamat 👋
+# Azamat Aitzhanov
 
-> Aspiring DevOps / ML Engineer building skills in automation, infrastructure, and machine learning — one commit at a time.
+**Aspiring DevOps Engineer** | Kazakhstan
 
-![Status](https://img.shields.io/badge/Status-Learning%20in%20Public-2ea44f?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-DevOps%20%7C%20ML-007ACC?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Kazakhstan-007FFF?style=for-the-badge)
+I am building toward designing, automating, and operating reliable production systems. I learn by shipping small projects, testing them, and documenting how they run.
 
----
+**Current tools:** Go, Bash, Git
+**Current focus:** Linux, networking, containers, and CI/CD
 
-## About Me
+## About
 
-- 🔭 Currently working on: Online Donating System
-- 🌱 Currently learning: Python, Go, GitHub Copilot / Codex, and Git
-- 🎯 Goal: Become a highly qualified DevOps or ML Engineer, and maybe explore GameDev along the way
-- 💬 Ask me about: Motorcycles
-- ⚡ Fun fact: I had dreadlocks when I was 30
+- Improving and testing a Go text-processing CLI: [go-refresh](https://github.com/MrAitzhanovAzamat/go-refresh)
+- Interested in automation, dependable deployments, and the systems behind them
+- Outside tech: motorcycles
 
----
+## DevOps Roadmap
 
-## 🛠️ Tech Stack
+Progress means a working, repeatable project at each stage, not just trying a tool. I will keep this checklist updated as I build.
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### 1. Foundations
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- [x] Build and test a Go CLI with unit tests: [go-refresh](https://github.com/MrAitzhanovAzamat/go-refresh)
+- [ ] Administer a Linux machine: users, permissions, processes, systemd, journald, and storage
+- [ ] Explain and troubleshoot DNS, TCP/IP, TLS, HTTP, SSH, and firewall rules
+- [ ] Use Git branches, pull requests, code review, and Bash scripts with safe error handling
 
----
+### 2. Build and Deliver
 
-## 🗺️ Learning Roadmap
+- [ ] Containerize an application with Docker: multi-stage build, non-root user, and health check
+- [ ] Create a GitHub Actions pipeline for formatting, tests, linting, builds, and image scanning
+- [ ] Deploy to a Linux VM behind a reverse proxy with TLS, managed secrets, and a rollback path
 
-### Foundations
-- [x] Create GitHub account and profile
-- [x] Go and Python fundamentals
-- [x] macOS and Windows command line / Bash scripting
-- [ ] Git workflow (branches, pull requests)
+### 3. Provision Infrastructure
 
-### DevOps Track
-- [ ] Docker & Docker Compose
-- [ ] CI/CD with GitHub Actions
-- [ ] Terraform & Ansible
-- [ ] Kubernetes basics
-- [ ] Cloud platform (AWS / Azure / GCP)
+- [ ] Choose one cloud platform and practice IAM, networking, compute, storage, and cost controls
+- [ ] Provision infrastructure with Terraform, remote state, reusable modules, and reviewable plans
+- [ ] Configure a clean host repeatably with Ansible
 
-### ML Track
-- [ ] NumPy, Pandas, Matplotlib
-- [ ] Scikit-learn
-- [ ] PyTorch or TensorFlow
-- [ ] MLOps basics (DVC, MLflow, model deployment)
+### 4. Operate Reliably and Securely
 
-### Optional: GameDev
-- [ ] Try a game engine (Godot / Unity)
-- [ ] Build a small 2D game
+- [ ] Deploy a service to Kubernetes with Helm, resource limits, probes, and safe rollouts
+- [ ] Collect metrics, logs, and traces; build dashboards and actionable alerts
+- [ ] Define service-level objectives, write runbooks, test restore procedures, and run an incident exercise
+- [ ] Apply least privilege, secret rotation, patching, and dependency and container scanning
 
----
+### 5. Prove It in a Capstone
 
-## 📂 Featured Projects
+- [ ] Publish an end-to-end service with CI/CD, infrastructure as code, observability, and documented rollback
+- [ ] Include an architecture diagram, setup guide, runbooks, security notes, and cost estimate
+- [ ] Rebuild the environment from scratch and write up the tradeoffs and lessons learned
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [prompt-basics](https://github.com/MrAitzhanovAzamat/prompt-basics) | Learning and experimenting with AI prompts and workflows | Claude, OpenAI, Gemini |
-| [go-refresh](https://github.com/MrAitzhanovAzamat/go-refresh) | Command-line text editing, correction, and completion | Go |
+## Project
 
-More projects coming soon. Check my [repositories tab](https://github.com/MrAitzhanovAzamat?tab=repositories).
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [go-refresh](https://github.com/MrAitzhanovAzamat/go-refresh) | Tested CLI with text-processing and language-correction pipelines | Go |
 
----
+More work is in my [repositories](https://github.com/MrAitzhanovAzamat?tab=repositories).
 
-## 📈 GitHub Activity
+## Connect
 
-![Followers](https://img.shields.io/github/followers/MrAitzhanovAzamat?style=social)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-Active-success?style=flat-square)
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azamat-aitzhanov888)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitzhanov.azamat@icloud.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AzaAITzhanov)
-
----
-
-> “The best way to succeed is simply to repeat.”
-
-Thanks for stopping by! 🚀
+[LinkedIn](https://www.linkedin.com/in/azamat-aitzhanov888) · [Email](mailto:aitzhanov.azamat@icloud.com) · [Telegram](https://t.me/AzaAITzhanov)
