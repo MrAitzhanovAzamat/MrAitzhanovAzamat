@@ -4,12 +4,13 @@
 
 I am building toward designing, automating, and operating reliable production systems. I learn by shipping small projects, testing them, and documenting how they run.
 
-**Current tools:** Go, Bash, Git
-**Current focus:** Linux, networking, containers, and CI/CD
+**Current tools:** Go, Bash, Git, Python (learning)
+**Current focus:** Linux, networking, containers, CI/CD, and Python & ML fundamentals
 
 ## About
 
 - Improving and testing a Go text-processing CLI: [go-refresh](https://github.com/MrAitzhanovAzamat/go-refresh)
+- Learning Python and Machine Learning as an extra branch alongside DevOps
 - Interested in automation, dependable deployments, and the systems behind them
 - Outside tech: motorcycles
 
@@ -48,6 +49,32 @@ Progress means a working, repeatable project at each stage, not just trying a to
 - [ ] Publish an end-to-end service with CI/CD, infrastructure as code, observability, and documented rollback
 - [ ] Include an architecture diagram, setup guide, runbooks, security notes, and cost estimate
 - [ ] Rebuild the environment from scratch and write up the tradeoffs and lessons learned
+
+## Python & ML Roadmap (Extra Branch)
+
+Alongside the core DevOps track, I am building Python and Machine Learning skills so I can understand, build, and deploy ML/AI workloads reliably.
+
+### 1. Python Foundations
+
+- [ ] Master Python basics: virtual environments (`venv`/`uv`), data structures, functions, modules, and error handling
+- [ ] Write clean, testable Python scripts and CLI tools with `pytest` and type hints
+- [ ] Work with structured data and APIs using `requests`/`httpx`, JSON, `numpy`, and `pandas`
+
+### 2. Data & Classical Machine Learning
+
+- [ ] Explore, clean, and visualize datasets (`pandas`, `matplotlib`/`seaborn`) with reproducible notebooks
+- [ ] Train, evaluate, and compare baseline models with `scikit-learn` (regression, classification, cross-validation, metrics)
+- [ ] Package a trained model and preprocessing pipeline cleanly for repeatable inference
+
+### 3. Deep Learning & Applied AI
+
+- [ ] Learn core neural network concepts and build a small model with `PyTorch`
+- [ ] Experiment with LLM APIs, structured outputs, prompt evaluation, and simple RAG workflows (building on [prompt-basics](https://github.com/MrAitzhanovAzamat/prompt-basics))
+
+### 4. MLOps Bridge (Connecting to DevOps)
+
+- [ ] Serve a Python ML/AI model behind a `FastAPI` endpoint with input validation and health checks
+- [ ] Containerize the ML service with Docker, automate tests and linting in GitHub Actions, and track model artifacts/metrics
 
 ## Project
 
